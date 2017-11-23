@@ -1,0 +1,11 @@
+           Links naar externe site, interne site, popup venster
+          klikbare foto - vergroting bij klik
+    V     heldere navigatie
+    V     opsommingslijst
+    V     informatie in sections and articles
+          tabel met minimaal 2 kolommen, linker-en rechterkolom niet hetzelfde.
+    V     links, rechts and gecentreerde tekst
+    V     embedded object (video ) youtube delen insluiten
+    V     footer naam klas en naam site
+    V     achtergrond gekleurd
+          Formulier
